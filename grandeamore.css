@@ -182,7 +182,7 @@ color:#9591CB;}
 .uno{font-family: Candara;
 font-size: 12px;
 color:#9591CB;
-background: url()#9190CF; 
+background: url()#C4C6E2; 
 padding: 10px 10px 10px 10px;
 text-align: justify;
 width: 490px;}
@@ -200,11 +200,11 @@ width: 490px;}
 
 #barra {height: 30px;
 color: #9591CB;
-background: url()#545E9B;
+background: url()#BBC1E5;
 text-transform:none;}
 
 #barra .tubo {text-align:left;
-background: url()#545E9B;
+background: url()#BBC1E5;
 margin: 0 auto; padding:10;
 text-transform:none;
 }
@@ -212,8 +212,8 @@ text-transform:none;
 
 #barra .fvbarraf {width: 100px;
 height: 17px;
-background: url()#545E9B;
-border: 1px solid #545E9B;
+background: url()#BBC1E5;
+border: 1px solid #BBC1E5;
 -moz-border-radius:3px 1px;
 font: bold 10px georgia; 
 color:#9591CB; 
@@ -237,7 +237,7 @@ background: url()#545E9B;
 text-transform:none;}
 
 #barra .fvbarra a:hover {width:90px;
-background: url()#9190CF;
+background: url()#C4C6E2;
 padding: 10px 10px 10px 10px;
 text-transform:none;
 color:#AF9FD7;
